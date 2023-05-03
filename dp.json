@@ -1,0 +1,40 @@
+{
+    "description": [
+      {
+        "icon": "https://cdn.lordicon.com/ivhjpjsw.json",
+        "title": "WEBSITES",
+        "desc":"I Can Build Professional Responsive Websites Optimized For The Most Popular Search Engines And Modern Libraries."
+      },
+      {
+        "title": "SINGLE PAGE APPLICATION (SPA)",
+        "icon": "https://cdn.lordicon.com/ivhjpjsw.json",
+        "desc":"I Can Build Professional Responsive Single Page Application (SPA) Using VueJs And Modern Libraries."
+      },
+      {
+        "title": "PSD TO HTML",
+        "icon": "https://cdn.lordicon.com/ggqtvqxi.json",
+        "desc":"It Is A Long Established Fact That A Reader Will Be Distracted By The Readable Content Of A Page When Locking At Its Layout."
+
+      },
+      
+      {
+        "title": "LANDING PAGE",
+        "icon": "https://cdn.lordicon.com/gdjyhaga.json",
+        "desc":"Have A Landing Page , And Use It Is Power To Help Like Drive Users To Your Webinars And Online Events."
+
+      },
+      {
+        "title": "FIXED WEBSITES",
+        "icon": "https://cdn.lordicon.com/tsnvgrkp.json",
+        "desc":"I Can Build Professional Responsive Websites Optimized For The Most Popular Like Search Engines."
+
+      }
+      ,
+      {
+        "title": "CUSTOM BROWSER",
+        "icon": "https://cdn.lordicon.com/dfxesbyu.json",
+        "desc":"Be More Connected With Your Clients By Getting An Extention That Gaves Some Mehod Related With Your Websites."
+
+      }
+    ]
+  }
