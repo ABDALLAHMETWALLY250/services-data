@@ -36,5 +36,26 @@
         "desc":"Be More Connected With Your Clients By Getting An Extention That Gaves Some Mehod Related With Your Websites."
 
       }
+      ,
+      {
+        "title": "Front-end Development",
+        "icon": "https://cdn.lordicon.com/kxrhwtdg.json",
+        "desc":"I consider the design details are my mission, so I try hard to be creative with it and make it in the best ui always use the most up-to-date technologies available to implement the project in the best quality"
+
+      }
+      ,
+      {
+        "title": "SEO",
+        "icon": "https://cdn.lordicon.com/zniqnylq.json",
+        "desc":"Optimizing the site for search engines on WordPress and OpenCart to reach the first results and get a number of words within the search engines, which increases the site’s ranking globally and locally and get visitors."
+
+      }
+      ,
+      {
+        "title": "OpenCart Stores",
+        "icon": "https://cdn.lordicon.com/lpddubrl.json",
+        "desc":"I have designed many stores completely and professionall from design to coding, control panel, hosting , store configuration for search engines, linking to shipping platforms, payment platforms, affiliate marketing and more...."
+
+      }
     ]
   }
